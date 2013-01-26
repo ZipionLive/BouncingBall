@@ -1,0 +1,5 @@
+c:\users\zipionlive\documents\visual studio 2012\Projects\BouncingBall\Baballe\obj\Debug\Baballe.csprojResolveAssemblyReference.cache
+c:\users\zipionlive\documents\visual studio 2012\Projects\BouncingBall\Baballe\bin\Debug\Baballe.dll
+c:\users\zipionlive\documents\visual studio 2012\Projects\BouncingBall\Baballe\bin\Debug\Baballe.pdb
+c:\users\zipionlive\documents\visual studio 2012\Projects\BouncingBall\Baballe\obj\Debug\Baballe.dll
+c:\users\zipionlive\documents\visual studio 2012\Projects\BouncingBall\Baballe\obj\Debug\Baballe.pdb
